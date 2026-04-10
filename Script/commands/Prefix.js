@@ -2,7 +2,7 @@ module.exports.config = {
   name: "prefix",
   version: "1.0.0", 
   hasPermssion: 0,
-  credits: "Shahadat SAHU",
+  credits: "রংবাজ",
   description: "Display the bot's prefix and owner info",
   commandCategory: "Information",
   usages: "",
